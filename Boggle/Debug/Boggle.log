@@ -1,0 +1,4 @@
+﻿  Boggle.cpp
+d:\school\computer science\computer programming iii\boggle\boggle\bagoftiles.h(41): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Boggle.vcxproj -> D:\School\Computer Science\Computer Programming III\Boggle\Debug\Boggle.exe
+  Boggle.vcxproj -> D:\School\Computer Science\Computer Programming III\Boggle\Debug\Boggle.pdb (Full PDB)
